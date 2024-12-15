@@ -18,6 +18,7 @@
             //if ((Num > 0 )){ Console.WriteLine("positive"); }
             //else { Console.WriteLine("Negative"); }
             #endregion
+
             #region Write a program that takes 3 integers from the user then prints the max element and the min element
             //Console.WriteLine("First Number :");
             //int Num1 = int.Parse(Console.ReadLine());
@@ -30,6 +31,14 @@
 
             //Console.WriteLine("max element = " + Math.Max(Num1, Math.Max(Num2, Num3)));
             //Console.WriteLine("min element = " + Math.Min(Num1, Math.Min(Num2, Num3)));
+            #endregion
+
+            #region Write a program that allows the user to insert an integer number then check If a number is even or odd
+            //Console.WriteLine("Enter Number To Check It iS Even or Odd :");
+            //int Num = int.Parse(Console.ReadLine());
+
+            //if ((Num % 2 == 0)) { Console.WriteLine("Even"); }
+            //else { Console.WriteLine("Odd"); }
             #endregion
             Console.ReadKey();
         }
