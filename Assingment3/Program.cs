@@ -18,7 +18,19 @@
             //if ((Num > 0 )){ Console.WriteLine("positive"); }
             //else { Console.WriteLine("Negative"); }
             #endregion
+            #region Write a program that takes 3 integers from the user then prints the max element and the min element
+            //Console.WriteLine("First Number :");
+            //int Num1 = int.Parse(Console.ReadLine());
 
+            //Console.WriteLine("Second Number :");
+            //int Num2 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Third Number :");
+            //int Num3 = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("max element = " + Math.Max(Num1, Math.Max(Num2, Num3)));
+            //Console.WriteLine("min element = " + Math.Min(Num1, Math.Min(Num2, Num3)));
+            #endregion
             Console.ReadKey();
         }
     }
