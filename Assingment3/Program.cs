@@ -64,6 +64,16 @@
 
             //for (int i = 1; i < inputNum; i++) { if (i%2 == 0) { Console.Write($"{i} "); } }
             #endregion
+
+            #region Write a program that takes two integers then prints the power.
+            //Console.WriteLine("Enter First Number You Want to Get The power : ");
+            //float inputNum = float.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Enter Power Number: ");
+            //float Power = float.Parse(Console.ReadLine());
+
+            //Console.WriteLine(Math.Pow(inputNum, Power));
+            #endregion
             Console.ReadKey();
         }
     }
