@@ -134,6 +134,42 @@ namespace Assingment3
 
             //Console.WriteLine($"Days in Month: {days}");
             #endregion
+
+            #region  Write a program to create a Simple Calculator
+            //int result;
+            //Console.Write("Enter first number:");
+            //int num1 = int.Parse(Console.ReadLine());
+
+            //Console.Write("Enter second number:");
+            //int num2 = int.Parse(Console.ReadLine());
+
+            //Console.Write("Enter symbol(/ , + , - , * ):");
+            //string symbol = Console.ReadLine();
+            //switch (symbol) 
+            //{
+            //    case "+":
+            //        result = num1 + num2;
+            //        Console.WriteLine("Addition:" + result);
+            //        break;
+            //    case "-":
+            //        result = num1 - num2;
+            //        Console.WriteLine("Subtraction:" + result);
+            //        break;
+            //    case "*":
+            //        result = num1 * num2;
+            //        Console.WriteLine("Multiplication:" + result);
+            //        break;
+            //    case "/":
+            //        result = num1 / num2;
+            //        Console.WriteLine("Division:" + result);
+            //        break;
+            //    default:
+            //        Console.WriteLine("Wrong input");
+            //        break;
+
+            //}
+
+            #endregion
             Console.ReadKey();
         }
 
