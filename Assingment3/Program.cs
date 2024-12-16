@@ -99,7 +99,43 @@ namespace Assingment3
             //Console.WriteLine($"Average = {average}");
             //Console.WriteLine($"Percentage = {percentage}%");
             #endregion
+
+            #region  Write a program to input the month number and print the number of days in that month
+            //Console.Write("Enter the month number :");
+            //int Month = int.Parse(Console.ReadLine());
+            //int days;
+
+            //switch (Month)
+            //{
+            //    case 1:
+            //    case 3:
+            //    case 5:
+            //    case 7:
+            //    case 8:
+            //    case 10:
+            //    case 12:
+            //         days = 31;
+            //        break;
+            //    case 4:
+            //    case 6:
+            //    case 9:
+            //    case 11:
+            //        days = 30;
+            //        break;
+            //    case 2:
+            //        Console.Write("Enter the year to check for leap year: ");
+            //        int year = int.Parse(Console.ReadLine());
+            //        days = (DateTime.IsLeapYear(year)) ? 29 : 28;
+            //        break;
+            //    default:
+            //        Console.WriteLine("Invalid month number. Please enter a number between 1 and 12.");
+            //        return ;
+            //}
+
+            //Console.WriteLine($"Days in Month: {days}");
+            #endregion
             Console.ReadKey();
         }
+
     }
 }
