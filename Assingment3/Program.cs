@@ -57,6 +57,13 @@
 
             //for (int i = 0; i <= 12; i++) { Console.Write($"{i*inputNum} "); }
             #endregion
+
+            #region Write a program that allows to user to insert number then print all even numbers between 1 to this number
+            //Console.WriteLine("Write Number To Know even numbers between 1 to this number: ");
+            //int inputNum = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i < inputNum; i++) { if (i%2 == 0) { Console.Write($"{i} "); } }
+            #endregion
             Console.ReadKey();
         }
     }
