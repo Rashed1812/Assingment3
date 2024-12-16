@@ -50,6 +50,13 @@
             //else { Console.WriteLine("Consonant");}
             #endregion
 
+            #region Write a program that allows the user to insert an integer then print a multiplication table up to 12
+
+            //Console.WriteLine("Write Number: ");
+            //int inputNum = int.Parse(Console.ReadLine());
+
+            //for (int i = 0; i <= 12; i++) { Console.Write($"{i*inputNum} "); }
+            #endregion
             Console.ReadKey();
         }
     }
