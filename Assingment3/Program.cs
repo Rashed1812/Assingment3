@@ -40,6 +40,16 @@
             //if ((Num % 2 == 0)) { Console.WriteLine("Even"); }
             //else { Console.WriteLine("Odd"); }
             #endregion
+
+            #region Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant)
+            //Console.WriteLine("Write a character To Know if it vowel or consonant: ");
+            //char Inputcharacter1 = char.Parse(Console.ReadLine());
+            //char character2 = char.ToLower(Inputcharacter1);
+
+            //if (character2 == 'a'|| character2 =='e'|| character2 == 'i'|| character2 =='o'|| character2 =='u') { Console.WriteLine("Vowel"); }
+            //else { Console.WriteLine("Consonant");}
+            #endregion
+
             Console.ReadKey();
         }
     }
