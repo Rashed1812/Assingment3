@@ -13,6 +13,7 @@ namespace Assingment3
             //if ((Num % 4 == 0) && (Num % 3 == 0)) { Console.WriteLine("Yes"); }
             //else { Console.WriteLine("No"); }
             #endregion
+
             #region Write a program that allows the user to insert an integer then print negative if it is negative number otherwise print positive
             //Console.WriteLine("Enter Number if it is negative number or positive :");
             //int Num = int.Parse(Console.ReadLine());
@@ -135,41 +136,19 @@ namespace Assingment3
             //Console.WriteLine($"Days in Month: {days}");
             #endregion
 
-            #region  Write a program to create a Simple Calculator
-            //int result;
-            //Console.Write("Enter first number:");
-            //int num1 = int.Parse(Console.ReadLine());
+            #region Within a company, the efficiency of workers is evaluated based on the duration required to complete a specific task
+            //Console.WriteLine("Enter Hours You Take To Complete The Job");
+            //double efficiencyTime = double.Parse(Console.ReadLine());
 
-            //Console.Write("Enter second number:");
-            //int num2 = int.Parse(Console.ReadLine());
+            //if (efficiencyTime >= 2 && efficiencyTime < 3) { Console.WriteLine("highly efficient"); }
+            //else if (efficiencyTime >= 3 && efficiencyTime < 4) { Console.WriteLine("increase Your speed"); }
+            //else if (efficiencyTime >= 4 && efficiencyTime <=5) { Console.WriteLine(" you are provided with training to enhance your speed"); }
+            //else if (efficiencyTime > 5) { Console.WriteLine("you are required to leave the company"); }
+            //else {Console.WriteLine("Invalid Input Please Time is should be 2 hours atleast");}
 
-            //Console.Write("Enter symbol(/ , + , - , * ):");
-            //string symbol = Console.ReadLine();
-            //switch (symbol) 
-            //{
-            //    case "+":
-            //        result = num1 + num2;
-            //        Console.WriteLine("Addition:" + result);
-            //        break;
-            //    case "-":
-            //        result = num1 - num2;
-            //        Console.WriteLine("Subtraction:" + result);
-            //        break;
-            //    case "*":
-            //        result = num1 * num2;
-            //        Console.WriteLine("Multiplication:" + result);
-            //        break;
-            //    case "/":
-            //        result = num1 / num2;
-            //        Console.WriteLine("Division:" + result);
-            //        break;
-            //    default:
-            //        Console.WriteLine("Wrong input");
-            //        break;
-
-            //}
 
             #endregion
+
             Console.ReadKey();
         }
 
