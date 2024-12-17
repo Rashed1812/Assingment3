@@ -78,29 +78,6 @@ namespace Assingment3
             //Console.WriteLine(Math.Pow(inputNum, Power));
             #endregion
 
-            #region Write a program to enter marks of five subjects and calculate total, average and percentage
-            //Console.WriteLine("Enter Marks of five subjects");
-
-            //Console.Write("Subject 1: ");
-            //int subject1 = int.Parse(Console.ReadLine());
-            //Console.Write("Subject 2: ");
-            //int subject2 = int.Parse(Console.ReadLine());
-            //Console.Write("Subject 3: ");
-            //int subject3 = int.Parse(Console.ReadLine());
-            //Console.Write("Subject 4: ");
-            //int subject4 = int.Parse(Console.ReadLine());
-            //Console.Write("Subject 5: ");
-            //int subject5 = int.Parse(Console.ReadLine());
-
-            //int total = subject1 + subject2 + subject3 + subject4 + subject5;
-            //double average = total / 5;
-            //double percentage = (total / 500.0) * 100;
-
-            //Console.WriteLine($"Total = {total}");
-            //Console.WriteLine($"Average = {average}");
-            //Console.WriteLine($"Percentage = {percentage}%");
-            #endregion
-
             #region  Write a program to input the month number and print the number of days in that month
             //Console.Write("Enter the month number :");
             //int Month = int.Parse(Console.ReadLine());
